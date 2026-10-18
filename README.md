@@ -1,4 +1,4 @@
-# CCOS (C++ Custom Operating System)
+# CCOS (C++ Operating System)
 
 CCOS is a bare-metal, 32-bit x86 interactive operating system kernel developed in C++17 and assembly. Built from scratch in a freestanding environment without stdlib or runtime overhead, it features custom dynamic memory management, interactive VGA text rendering, raw ATA hard disk persistence, and a built-in shell interface.
 
